@@ -1,0 +1,151 @@
+.top_div{
+    background-color: #e3ede5;
+    height: 85px;
+    width: 100%;
+}
+.button_div{
+    background-color: #ffb20d;
+    height: 50px;
+    width: unset;
+    display: flex;
+}
+.img{
+    padding-top: 10px;
+    padding-left: 150px;
+}
+.home_div{
+    background-color: #ffb20d;
+    height: 50px;
+    width:7%;
+    padding-left: 150px;
+}
+.gallery_div{
+    background-color: #ffb20d;
+    height: 50px;
+    width:7%;
+
+}
+.template_div{
+    background-color: #ffb20d;
+    height: 50px;
+    width:10%;
+
+}
+.themes_div{
+    background-color: #ffc208;
+    height: 50px;
+    width: 10%;
+
+}
+.contact_div{
+    background-color: #ffb80f;
+    height: 50px;
+    width: 10%;
+
+}
+.search_div{
+    background-color: #ffc211;
+    height: 50px;
+    width:45%;
+
+}
+.make_div{
+    height: 50px;
+    background-color: #ffaa04;
+    border-collapse: collapse;
+    background-blend-mode: unset;
+}
+.button_1{
+    height: 50px;
+    background-color: #ffc50e;
+    border-collapse: collapse;
+    background-blend-mode: unset;
+}
+.button_2{
+    height: 50px;
+    background-color: #ffb911;
+    border-collapse: collapse;
+    background-blend-mode: unset;
+}
+.button_3{
+    height: 50px;
+    background-color: #ffbd19;
+    border-collapse: collapse;
+    background-blend-mode: unset;
+}
+.button_4{
+    height: 50px;
+    background-color: #ffa407;
+    border-collapse: collapse;
+    background-blend-mode: unset;
+}
+.body_div{
+    height: 50px;
+    background-color: #e3ede5;
+}
+.heading_1{
+    font-size: 20px;
+    padding-left: 150px;
+    font-family: "Arial Black";
+}
+.first_p{
+    padding-left: 150px;
+}
+.title{
+    padding-left: 150px;
+    font-family: "Arial Black";
+    color: #ffb20d;
+}
+.image{
+    padding-left: 150px;
+}
+.event_div{
+    height: 250px;
+    background-color: #d18b0d;
+    display: flex;
+}
+.inside{
+    background-color: #d18b0d;
+    height: 10px;
+    width: 100%;
+}
+.footer_div{
+    height: 60px;
+    width: 100%;
+    background-color: #ffb20d;
+}
+.in_footer{
+    height: 25px;
+    background-color: #d18b0d;
+    width: 100%;
+}
+.one{
+    background-color: #d18b0d;
+    height: 250px;
+    width: 25%;
+}
+.two{
+    background-color: #d18b0d;
+    height: 250px;
+    width: 25%;
+}
+.three{
+    background-color: #d18b0d;
+    height: 250px;
+    width: 25%;
+    padding-left: 20px;
+}
+.red{
+    background-color: #d12210;
+}
+.bar{
+    padding-top: 10px;
+    padding-left: 90px;
+}
+.col{
+    background-color: #d12210;
+}
+h5{
+    color: #e3ede5;
+    font-size: 25px;
+}
